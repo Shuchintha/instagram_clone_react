@@ -1,0 +1,12 @@
+.imageUplaod {
+    display: flex;
+    /* align-items: center; */
+    width: 60%;
+    flex-direction: column;
+    margin: 10px auto 10px auto;
+    background-color: white;
+}
+
+.imageUplaod_progress {
+    width: 100%;
+}

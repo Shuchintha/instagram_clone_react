@@ -1,0 +1,17 @@
+.app__header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    background-color: white;
+    border-bottom: 1px solid lightgrey;
+    object-fit: contain;
+}
+
+.app__headerImage {
+    width: 10%;
+    padding: 10px;
+    object-fit: contain;
+}
